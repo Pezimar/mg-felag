@@ -1,0 +1,22 @@
+{
+  "name": "mg-felag",
+  "version": "1.0.0",
+  "description": "Vefsíða fyrir MG-félag Íslands.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pezimar/mg-felag.git"
+  },
+  "author": "Pétur Már Sigurðsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pezimar/mg-felag/issues"
+  },
+  "homepage": "https://github.com/Pezimar/mg-felag#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
